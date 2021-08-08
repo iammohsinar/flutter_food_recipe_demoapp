@@ -6,8 +6,8 @@ flutter food recipe layout, best understaning of stack, bottomnavigationbar, gen
 
 
 ## Screen shot
+([Screen shot](https://imgur.com/P5RYwQx.mp4))
 
-<img src="https://imgur.com/P5RYwQx.mp4">
 
 
 ### Created & Maintained By
